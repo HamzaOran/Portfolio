@@ -22,7 +22,7 @@ const Main = () => {
             Hamza Oran
           </h1>
           <h2 className="sm:text-6xl text-4xl p-6 font-bold text-gray-800 text-center">
-            Front-end Web Developer
+            Frontend React Developer
           </h2>
           <div className="flex flex-row">
             <div>
