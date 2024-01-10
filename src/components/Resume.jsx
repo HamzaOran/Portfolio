@@ -1,4 +1,4 @@
-import pdf from '../assets/Hamza_Oran_Resume.pdf';
+import pdf from '../assets/Hamza_Oran_Resum.pdf';
 
 function Resume() {
   return (
